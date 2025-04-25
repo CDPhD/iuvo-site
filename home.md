@@ -1,5 +1,6 @@
 ---
 layout: single
+sidebar: false
 author_profile: false
 title: "Iuvo.Solutions"
 permalink: /
