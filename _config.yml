@@ -81,3 +81,5 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+minimal_mistakes:
+  hide_footer_credits: true
