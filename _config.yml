@@ -76,16 +76,8 @@ author:
       url: "https://instagram.com/"
 
 footer:
-  links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+  links: false
+  content: "© 2025 Iuvo.Solutions | Based in Aotearoa New Zealand"
 
 defaults:
   # _posts
@@ -113,6 +105,3 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
-footer:
-  links: false
-  content: "© 2025 Iuvo.Solutions | Based in Aotearoa New Zealand"
