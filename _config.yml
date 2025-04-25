@@ -83,3 +83,6 @@ tag_archive:
   path: /tags/
 minimal_mistakes:
   hide_footer_credits: true
+assets:
+  css:
+    - "/assets/css/custom.css"
