@@ -19,12 +19,12 @@ header:
 </p>
 
 <p align="center">
-  <em>Iuvo comes from Latin, meaning "to assist, support, and befriend" — a reflection of my mission: Empowering for-purpose organisations with expert financial management, strategic guidance, and governance support, ensuring they thrive and create lasting impact.</em>
+  <em>Iuvo comes from Latin, meaning "to assist, support, and befriend" — a reflection of my mission: empowering for-purpose organisations with expert financial management, strategic guidance, and governance support, ensuring they thrive and create lasting impact.</em>
 </p>
 
 <br>
 
-<div style="display: flex; flex-wrap: wrap; gap: 40px; align-items: flex-start; flex-direction: row;">
+<div class="responsive-columns" style="display: flex; flex-wrap: wrap; gap: 40px; align-items: flex-start;">
   <div style="flex: 2; min-width: 300px;">
 
 <h3>Financial Leadership & Support</h3>
