@@ -1,7 +1,8 @@
 ---
-layout: splash
+layout: single
 title: "Iuvo.Solutions"
 permalink: /
+classes: wide
 header:
   overlay_nav: false
   overlay_logo: "/assets/images/20250425logo.png"
