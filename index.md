@@ -14,19 +14,19 @@ header:
   search: false
 ---
 
-<p align="center">
-  <img src="/assets/images/20250425logo.png" alt="Iuvo.Solutions Logo" width="300">
-</p>
+<div class="mission-photo-container" style="display: flex; flex-wrap: wrap; gap: 40px; align-items: center;">
 
-<p align="center">
-  <em>Iuvo comes from Latin, meaning "to assist, support, and befriend" — a reflection of my mission: empowering for-purpose organisations with expert financial management, strategic guidance, and governance support, ensuring they thrive and create lasting impact.</em>
-</p>
+  <div style="flex: 2; min-width: 300px;">
+    <p>
+      <em>Iuvo comes from Latin, meaning "to assist, support, and befriend" — a reflection of my mission: empowering for-purpose organisations with expert financial management, strategic guidance, and governance support, ensuring they thrive and create lasting impact.</em>
+    </p>
+  </div>
 
-<br>
+  <div style="flex: 1; min-width: 250px; text-align: center;">
+    <img src="/assets/images/chris-profile.jpg" alt="Chris Davidson" width="250">
+  </div>
 
-<p align="center">
-  <img src="/assets/images/chris-profile.jpg" alt="Chris Davidson" width="250">
-</p>
+</div>
 
 <br>
 
