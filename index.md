@@ -2,6 +2,15 @@
 layout: splash
 title: "Iuvo.Solutions"
 permalink: /
+header:
+  overlay_nav: false
+  overlay_logo: "/assets/images/20250425logo.png"
+  show_overlay_title: false
+  show_title: false
+  show_subtitle: false
+  show_nav: false
+  sticky: false
+  search: false
 ---
 
 <p align="center">
