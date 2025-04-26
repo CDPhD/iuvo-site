@@ -19,7 +19,7 @@ header:
 </p>
 
 <p align="center">
-  <em>Iuvo comes from Latin, meaning "to assist, support, and befriend" — a reflection of my mission: empowering for-purpose organisations with expert financial management, strategic guidance, and governance support, ensuring they thrive and create lasting impact.</em>
+  <em>Iuvo comes from Latin, meaning "to assist, support, and befriend" — a reflection of my mission: Empowering for-purpose organisations with expert financial management, strategic guidance, and governance support, ensuring they thrive and create lasting impact.</em>
 </p>
 
 <br>
