@@ -55,7 +55,7 @@ plugins:
 footer:
   links: false
   content: |
-    © 2025 Iuvo.Solutions | Based in Aotearoa New Zealand
+    © 2025 iuvo.solutions | Based in Aotearoa New Zealand
 
 defaults:
   # _posts
