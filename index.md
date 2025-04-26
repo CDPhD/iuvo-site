@@ -22,5 +22,11 @@ header:
 
 **Financial leadership and strategic support for New Zealand’s for-purpose sector.**
 
-[Connect on LinkedIn](https://www.linkedin.com/in/chris-davidson-aa92a58/)  
-[Email me](mailto:chris.davidson@iuvo.solutions)
+<p align="center">
+  <a href="https://www.linkedin.com/in/chris-davidson-aa92a58/" target="_blank" style="margin-right: 20px;">
+    <i class="fab fa-linkedin fa-2x"></i>
+  </a>
+  <a href="mailto:chris.davidson@iuvo.solutions" style="margin-left: 20px;">
+    <i class="fas fa-envelope fa-2x"></i>
+  </a>
+</p>
