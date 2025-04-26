@@ -21,8 +21,8 @@ header:
 <div class="mission-photo-container" style="display: flex; flex-wrap: wrap; gap: 40px; align-items: center;">
 
   <div style="flex: 2; min-width: 300px;">
-    <p>
-      <em>Iuvo comes from Latin, meaning "to assist, support, and befriend" — a reflection of my mission: Empowering for purpose organisations to thrive through expert financial leadership, strategic advice, and governance support.</em>
+    <p style="margin-bottom: 20px;">
+      <em>Iuvo comes from Latin, meaning "to assist, support, and befriend" — a reflection of my mission: Empowering for-purpose organisations to thrive through expert financial leadership, strategic advice, and governance support.</em>
     </p>
   </div>
 
@@ -34,12 +34,12 @@ header:
 
 <br>
 
-<p>
-  As a Chartered Accountant specialising in the for-purpose (not-for-profit) sector, I combine commercial expertise with a deep understanding of community development. Alongside my finance qualifications, I hold a Master’s Degree in Sociology — a rare mix that strengthens both strategic thinking and practical delivery:
+<p style="margin-bottom: 30px;">
+  As a Chartered Accountant specialising in the for-purpose (not-for-profit) sector, I combine commercial expertise with a deep understanding of community development. Alongside my finance qualifications, I hold a Master’s Degree in Sociology — a rare mix that strengthens both strategic thinking and practical delivery.
 </p>
 
 <h3>Financial Leadership & Support</h3>
-<ul>
+<ul style="margin-bottom: 20px;">
   <li>Virtual CFO services</li>
   <li>Forecasting and budgeting</li>
   <li>Systems optimisation</li>
@@ -47,7 +47,7 @@ header:
 </ul>
 
 <h3>Strategic Advisory & Project Support</h3>
-<ul>
+<ul style="margin-bottom: 20px;">
   <li>Project leadership</li>
   <li>RFP submissions</li>
   <li>Funding management</li>
@@ -56,7 +56,7 @@ header:
 </ul>
 
 <h3>Governance Support</h3>
-<ul>
+<ul style="margin-bottom: 20px;">
   <li>Board advisory</li>
   <li>Governance frameworks</li>
   <li>Reporting</li>
@@ -64,7 +64,7 @@ header:
   <li>Extensive real-world experience reporting to and serving on Boards</li>
 </ul>
 
-<p><strong>Whether you need interim financial leadership, support with funding and project management, or strategic advice on governance and compliance, I bring a practical, solutions-focused approach. I work flexibly — whether on a short-term project basis or as an ongoing partner — so you can focus on delivering impact.</strong></p>
+<p style="margin-top: 30px;"><strong>Whether you need interim financial leadership, support with funding and project management, or strategic advice on governance and compliance, I bring a practical, solutions-focused approach. I work flexibly — whether on a short-term project basis or as an ongoing partner — so you can focus on delivering impact.</strong></p>
 
 <h3>About Chris Davidson</h3>
 
@@ -78,7 +78,7 @@ header:
 <p>✔️ Certificate of Public Practice (CAANZ)</p>
 
 <h3>Qualifications & Certifications</h3>
-<ul>
+<ul style="margin-bottom: 30px;">
   <li>Bachelor of Business in Accountancy</li>
   <li>Diploma in Finance</li>
   <li>Master's Degree in Sociology</li>
@@ -86,8 +86,6 @@ header:
   <li>Advanced Certificate in Xero</li>
   <li>Certificate in Xero Payroll</li>
 </ul>
-
-<br>
 
 <!-- New footer starts here -->
 <div style="border-top: 1px solid #ddd; margin-top: 50px; padding-top: 20px; display: flex; justify-content: space-between; align-items: center;">
