@@ -24,7 +24,13 @@ header:
 
 <br>
 
-<div class="responsive-columns" style="display: flex; flex-wrap: wrap; gap: 40px; align-items: flex-start;">
+<p align="center">
+  <img src="/assets/images/chris-profile.jpg" alt="Chris Davidson" width="250">
+</p>
+
+<br>
+
+<div style="display: flex; flex-wrap: wrap; gap: 40px; align-items: flex-start;">
   <div style="flex: 2; min-width: 300px;">
 
 <h3>Financial Leadership & Support</h3>
@@ -76,10 +82,6 @@ header:
   <li>Certificate in Xero Payroll</li>
 </ul>
 
-  </div>
-  
-  <div style="flex: 1; min-width: 250px;">
-    <img src="/assets/images/chris-profile.jpg" alt="Chris Davidson" width="250">
   </div>
 </div>
 
