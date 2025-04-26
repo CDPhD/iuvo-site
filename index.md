@@ -30,15 +30,6 @@ header:
 
 <br>
 
-<p align="center">
-  <img src="/assets/images/chris-profile.jpg" alt="Chris Davidson" width="250">
-</p>
-
-<br>
-
-<div style="display: flex; flex-wrap: wrap; gap: 40px; align-items: flex-start;">
-  <div style="flex: 2; min-width: 300px;">
-
 <h3>Financial Leadership & Support</h3>
 <ul>
   <li>Virtual CFO services</li>
@@ -87,9 +78,6 @@ header:
   <li>Advanced Certificate in Xero</li>
   <li>Certificate in Xero Payroll</li>
 </ul>
-
-  </div>
-</div>
 
 <br>
 
