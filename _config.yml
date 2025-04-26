@@ -90,3 +90,13 @@ minimal_mistakes:
 assets:
   css:
     - "/assets/css/custom.css"
+
+header:
+  overlay_nav: false
+  overlay_logo: "/assets/images/20250425logo.png"
+  show_overlay_title: false
+  show_title: false
+  show_subtitle: false
+  show_nav: false
+  sticky: false
+  search: false
