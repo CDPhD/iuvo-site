@@ -24,7 +24,7 @@ header:
 
 <br>
 
-<div style="display: flex; align-items: flex-start; gap: 40px; flex-wrap: wrap;">
+<div style="display: flex; flex-wrap: wrap; gap: 40px; align-items: flex-start; flex-direction: row;">
   <div style="flex: 2; min-width: 300px;">
 
 <h3>Financial Leadership & Support</h3>
