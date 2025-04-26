@@ -22,15 +22,6 @@ header:
 
 **Financial leadership and strategic support for New Zealand’s for-purpose sector.**
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/chris-davidson-aa92a58/" target="_blank" style="margin-right: 20px;">
-    <i class="fab fa-linkedin fa-2x"></i>
-  </a>
-  <a href="mailto:chris.davidson@iuvo.solutions" style="margin-left: 20px;">
-    <i class="fas fa-envelope fa-2x"></i>
-  </a>
-</p>
-
 <br>
 
 <p>
@@ -40,3 +31,14 @@ header:
 # Chris Davidson
 
 Helping New Zealand’s for-purpose sector thrive through strategic financial leadership, governance support, and program development.
+
+<br>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/chris-davidson-aa92a58/" target="_blank" style="margin-right: 20px;">
+    <i class="fab fa-linkedin fa-2x"></i>
+  </a>
+  <a href="mailto:chris.davidson@iuvo.solutions" style="margin-left: 20px;">
+    <i class="fas fa-envelope fa-2x"></i>
+  </a>
+</p>
