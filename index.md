@@ -63,7 +63,7 @@ header:
   <li>Real-world experience reporting to and serving on Boards</li>
 </ul>
 
-<p style="margin-top: 30px;"><strong>Whether you need interim financial leadership, support with funding and project management, or strategic advice on governance and compliance, I bring a practical, solutions-focused approach. I work flexibly — whether on a short-term project basis or as an ongoing partner — so you can focus on delivering impact.</strong></p>
+<p style="margin-top: 30px;"><strong>Whether you need interim financial leadership, project support, or governance advice, I bring a practical, solutions-focused approach. I work flexibly — on a project, interim, or ongoing basis — so you can focus on what matters most: creating lasting impact.</strong></p>
 
 <h3>About Chris Davidson</h3>
 
