@@ -8,3 +8,7 @@
     text-align: center;
   }
 }
+
+.page__footer-copyright {
+  text-transform: none;
+}
