@@ -30,6 +30,12 @@ header:
 
 <br>
 
+<p align="center">
+  <img src="/assets/images/chris-profile.jpg" alt="Chris Davidson" width="250">
+</p>
+
+<br>
+
 <div style="display: flex; flex-wrap: wrap; gap: 40px; align-items: flex-start;">
   <div style="flex: 2; min-width: 300px;">
 
