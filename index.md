@@ -30,49 +30,58 @@ header:
   </div>
   <div style="flex: 2; min-width: 300px;">
 
-**Empowering for-purpose organisations with expert financial management, strategic guidance, and governance support, ensuring they thrive and create lasting impact.**
+<p><strong>Empowering for-purpose organisations with expert financial management, strategic guidance, and governance support, ensuring they thrive and create lasting impact.</strong></p>
 
-### Financial Leadership & Support
-- Virtual CFO services
-- Forecasting and budgeting
-- Systems optimisation
-- Compliance assistance
+<h3>Financial Leadership & Support</h3>
+<ul>
+  <li>Virtual CFO services</li>
+  <li>Forecasting and budgeting</li>
+  <li>Systems optimisation</li>
+  <li>Compliance assistance</li>
+</ul>
 
-### Strategic Advisory & Project Support
-- Project leadership
-- RFP submissions
-- Funding management
-- Stakeholder engagement
-- Complex problem-solving
+<h3>Strategic Advisory & Project Support</h3>
+<ul>
+  <li>Project leadership</li>
+  <li>RFP submissions</li>
+  <li>Funding management</li>
+  <li>Stakeholder engagement</li>
+  <li>Complex problem-solving</li>
+</ul>
 
-### Governance Support
-- Board advisory
-- Governance frameworks
-- Reporting
-- Strategic development
-- Extensive real-world experience reporting to and serving on Boards
+<h3>Governance Support</h3>
+<ul>
+  <li>Board advisory</li>
+  <li>Governance frameworks</li>
+  <li>Reporting</li>
+  <li>Strategic development</li>
+  <li>Extensive real-world experience reporting to and serving on Boards</li>
+</ul>
 
-**Whether you need interim financial leadership, support with funding and project management, or strategic advice on governance and compliance, I bring a practical, solutions-focused approach. I work flexibly — whether on a short-term project basis or as an ongoing partner — so you can focus on delivering impact.**
+<p><strong>Whether you need interim financial leadership, support with funding and project management, or strategic advice on governance and compliance, I bring a practical, solutions-focused approach. I work flexibly — whether on a short-term project basis or as an ongoing partner — so you can focus on delivering impact.</strong></p>
 
-### About Chris Davidson
+<h3>About Chris Davidson</h3>
 
-I’m a Chartered Accountant (CA) with over 20 years of leadership experience in New Zealand’s for-purpose sector.
+<p>I’m a Chartered Accountant (CA) with over 20 years of leadership experience in New Zealand’s for-purpose sector.</p>
 
-My experience includes:
-- ✔️ Eight years in community sector CEO roles
-- ✔️ Chartered Accountant with commercial and for-purpose experience
-- ✔️ Extensive experience leading teams, stakeholder engagement, project management, funding, operational and governance policy development, and youth programme design
-- ✔️ Bachelor of Business in Accountancy, Diploma in Finance, and a Master’s Degree in Sociology
-- ✔️ Advanced Certificate in Xero and Certificate in Xero Payroll
-- ✔️ Certificate of Public Practice (CAANZ)
+<ul>
+  <li>✔️ Eight years in community sector CEO roles</li>
+  <li>✔️ Chartered Accountant with commercial and for-purpose experience</li>
+  <li>✔️ Extensive experience leading teams, stakeholder engagement, project management, funding, operational and governance policy development, and youth programme design</li>
+  <li>✔️ Bachelor of Business in Accountancy, Diploma in Finance, and a Master’s Degree in Sociology</li>
+  <li>✔️ Advanced Certificate in Xero and Certificate in Xero Payroll</li>
+  <li>✔️ Certificate of Public Practice (CAANZ)</li>
+</ul>
 
-### Qualifications & Certifications
-- Bachelor of Business in Accountancy
-- Diploma in Finance
-- Master's Degree in Sociology
-- Certificate of Public Practice (CAANZ)
-- Advanced Certificate in Xero
-- Certificate in Xero Payroll
+<h3>Qualifications & Certifications</h3>
+<ul>
+  <li>Bachelor of Business in Accountancy</li>
+  <li>Diploma in Finance</li>
+  <li>Master's Degree in Sociology</li>
+  <li>Certificate of Public Practice (CAANZ)</li>
+  <li>Advanced Certificate in Xero</li>
+  <li>Certificate in Xero Payroll</li>
+</ul>
 
   </div>
 </div>
