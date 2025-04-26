@@ -65,7 +65,6 @@ header:
 <p>✔️ Bachelor of Business in Accountancy, Diploma in Finance, and a Master’s Degree in Sociology</p>
 <p>✔️ Advanced Certificate in Xero and Certificate in Xero Payroll</p>
 <p>✔️ Certificate of Public Practice (CAANZ)</p>
-</ul>
 
 <h3>Qualifications & Certifications</h3>
 <ul>
