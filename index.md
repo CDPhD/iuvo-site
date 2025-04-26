@@ -14,6 +14,10 @@ header:
   search: false
 ---
 
+<p align="center">
+  <img src="/assets/images/20250425logo.png" alt="Iuvo.Solutions Logo" width="300">
+</p>
+
 <div class="mission-photo-container" style="display: flex; flex-wrap: wrap; gap: 40px; align-items: center;">
 
   <div style="flex: 2; min-width: 300px;">
