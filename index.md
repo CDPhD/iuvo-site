@@ -15,19 +15,16 @@ header:
 ---
 
 <p align="center">
-  <em>Iuvo comes from Latin, meaning "to assist, support, and befriend."</em>
+  <img src="/assets/images/20250425logo.png" alt="Iuvo.Solutions Logo" width="300">
 </p>
 
 <p align="center">
-  <img src="/assets/images/20250425logo.png" alt="Iuvo.Solutions Logo" width="300">
+  <em>Iuvo comes from Latin, meaning "to assist, support, and befriend" — a reflection of my mission.</em>
 </p>
 
 <br>
 
 <div style="display: flex; align-items: flex-start; gap: 40px; flex-wrap: wrap;">
-  <div style="flex: 1; min-width: 250px;">
-    <img src="/assets/images/chris-profile.jpg" alt="Chris Davidson" width="250">
-  </div>
   <div style="flex: 2; min-width: 300px;">
 
 <p><strong>Empowering for-purpose organisations with expert financial management, strategic guidance, and governance support, ensuring they thrive and create lasting impact.</strong></p>
@@ -83,6 +80,10 @@ header:
   <li>Certificate in Xero Payroll</li>
 </ul>
 
+  </div>
+  
+  <div style="flex: 1; min-width: 250px;">
+    <img src="/assets/images/chris-profile.jpg" alt="Chris Davidson" width="250">
   </div>
 </div>
 
