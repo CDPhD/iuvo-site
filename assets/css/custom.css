@@ -1,3 +1,10 @@
 .site-footer {
   display: none !important;
 }
+
+@media (max-width: 768px) {
+  .mission-photo-container {
+    flex-direction: column;
+    text-align: center;
+  }
+}
