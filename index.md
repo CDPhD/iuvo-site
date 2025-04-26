@@ -68,7 +68,7 @@ header:
 
 <p>✔️ Eight years in community sector CEO roles</p>
 <p>✔️ Chartered Accountant with commercial and for-purpose experience</p>
-<p>✔️ Extensive experience leading teams, stakeholder engagement, project management, funding, operational and governance policy development, and youth programme design</p>
+<p>✔️ Extensive experience leading teams, stakeholder engagement, project management, funding, operational and governance policy development, and programme design</p>
 <p>✔️ Bachelor of Business in Accountancy, Diploma in Finance, and a Master’s Degree in Sociology</p>
 <p>✔️ Advanced Certificate in Xero and Certificate in Xero Payroll</p>
 <p>✔️ Certificate of Public Practice (CAANZ)</p>
