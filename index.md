@@ -35,7 +35,7 @@ header:
 <br>
 
 <p style="margin-bottom: 30px;">
-  As a Chartered Accountant specialising in the for-purpose (not-for-profit) sector, I combine commercial expertise with a deep understanding of community development. Alongside my finance qualifications, I hold a Master’s Degree in Sociology — a rare mix that strengthens both strategic thinking and practical delivery:
+  As a Chartered Accountant specialising in the for purpose (not-for-profit) sector, I combine commercial expertise with a deep understanding of community development. Alongside my finance qualifications, I hold a Master’s Degree in Sociology — a rare mix that strengthens both strategic thinking and practical delivery:
 </p>
 
 <h3>Financial Leadership & Support</h3>
