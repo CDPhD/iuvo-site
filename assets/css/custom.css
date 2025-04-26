@@ -5,5 +5,11 @@
 @media (max-width: 768px) {
   .responsive-columns {
     flex-direction: column-reverse;
+    align-items: center;
+    text-align: center;
+  }
+  
+  .responsive-columns img {
+    margin: 0 auto;
   }
 }
