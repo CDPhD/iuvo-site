@@ -102,3 +102,4 @@ header:
   search: false
 
 navigation: false
+rebuild_trigger: 1
