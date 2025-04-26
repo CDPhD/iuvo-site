@@ -59,13 +59,12 @@ header:
 
 <p>I’m a Chartered Accountant (CA) with over 20 years of leadership experience in New Zealand’s for-purpose sector.</p>
 
-<ul>
-  <li>✔️ Eight years in community sector CEO roles</li>
-  <li>✔️ Chartered Accountant with commercial and for-purpose experience</li>
-  <li>✔️ Extensive experience leading teams, stakeholder engagement, project management, funding, operational and governance policy development, and youth programme design</li>
-  <li>✔️ Bachelor of Business in Accountancy, Diploma in Finance, and a Master’s Degree in Sociology</li>
-  <li>✔️ Advanced Certificate in Xero and Certificate in Xero Payroll</li>
-  <li>✔️ Certificate of Public Practice (CAANZ)</li>
+<p>✔️ Eight years in community sector CEO roles</p>
+<p>✔️ Chartered Accountant with commercial and for-purpose experience</p>
+<p>✔️ Extensive experience leading teams, stakeholder engagement, project management, funding, operational and governance policy development, and youth programme design</p>
+<p>✔️ Bachelor of Business in Accountancy, Diploma in Finance, and a Master’s Degree in Sociology</p>
+<p>✔️ Advanced Certificate in Xero and Certificate in Xero Payroll</p>
+<p>✔️ Certificate of Public Practice (CAANZ)</p>
 </ul>
 
 <h3>Qualifications & Certifications</h3>
