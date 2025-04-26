@@ -88,7 +88,7 @@ header:
 <!-- New footer starts here -->
 <div style="border-top: 1px solid #ddd; margin-top: 50px; padding-top: 20px; display: flex; justify-content: space-between; align-items: center;">
   <div style="flex: 1;">
-    <img src="/assets/images/CAANZ_Logo_Vertical_Full_72dpi_CMYK.jpg" alt="CAANZ Logo" style="height: 80px;">
+    <img src="/assets/images/CAANZ_Logo_Vertical_Full_72dpi_CMYK.jpg" alt="CAANZ Logo" style="height: 120px;">
   </div>
   <div style="flex: 1; text-align: right;">
     <a href="https://www.linkedin.com/in/chris-davidson-aa92a58/" target="_blank" style="margin-right: 20px;">
