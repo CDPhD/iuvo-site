@@ -40,28 +40,27 @@ header:
 
 <h3>Financial Leadership & Support</h3>
 <ul style="margin-bottom: 20px;">
+  <li>Year-end financial statements and reporting</li>
+  <li>Monthly management reporting and variance analysis</li>
   <li>Virtual CFO services</li>
   <li>Forecasting and budgeting</li>
-  <li>Systems optimisation</li>
-  <li>Compliance assistance</li>
+  <li>Systems and process optimisation</li>
 </ul>
 
-<h3>Strategic Advisory & Project Support</h3>
+<h3>Strategic and Project Advisory</h3>
 <ul style="margin-bottom: 20px;">
-  <li>Project leadership</li>
+  <li>Project management</li>
+  <li>Funding and grants management</li>
   <li>RFP submissions</li>
-  <li>Funding management</li>
-  <li>Stakeholder engagement</li>
-  <li>Complex problem-solving</li>
+  <li>Complex problem-solving and solution design</li>
 </ul>
 
 <h3>Governance Support</h3>
 <ul style="margin-bottom: 20px;">
-  <li>Board advisory</li>
-  <li>Governance frameworks</li>
-  <li>Reporting</li>
+  <li>Board advisory and reporting</li>
+  <li>Governance frameworks and best practice</li>
   <li>Strategic development</li>
-  <li>Extensive real-world experience reporting to and serving on Boards</li>
+  <li>Real-world experience reporting to and serving on Boards</li>
 </ul>
 
 <p style="margin-top: 30px;"><strong>Whether you need interim financial leadership, support with funding and project management, or strategic advice on governance and compliance, I bring a practical, solutions-focused approach. I work flexibly — whether on a short-term project basis or as an ongoing partner — so you can focus on delivering impact.</strong></p>
