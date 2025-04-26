@@ -81,7 +81,7 @@ header:
   <li>Bachelor of Business in Accountancy</li>
   <li>Diploma in Finance</li>
   <li>Master's Degree in Sociology</li>
-  <li>Certificate of Public Practice (CAANZ)</li>
+  <li>Certificate of Public Practice (CA ANZ)</li>
   <li>Advanced Certificate in Xero</li>
   <li>Certificate in Xero Payroll</li>
 </ul>
