@@ -22,7 +22,7 @@ header:
 
   <div style="flex: 2; min-width: 300px;">
     <p>
-      <em>Iuvo comes from Latin, meaning "to assist, support, and befriend" — a reflection of my mission: Empowering for purpose organisations thrive through expert financial leadership, strategic advice, and governance support </em>
+      <em>Iuvo comes from Latin, meaning "to assist, support, and befriend" — a reflection of my mission: Empowering for purpose organisations to thrive through expert financial leadership, strategic advice, and governance support.</em>
     </p>
   </div>
 
@@ -33,6 +33,10 @@ header:
 </div>
 
 <br>
+
+<p>
+  As a Chartered Accountant specialising in the for-purpose (not-for-profit) sector, I combine commercial expertise with a deep understanding of community development. Alongside my finance qualifications, I hold a Master’s Degree in Sociology — a rare mix that strengthens both strategic thinking and practical delivery:
+</p>
 
 <h3>Financial Leadership & Support</h3>
 <ul>
