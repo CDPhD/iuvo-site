@@ -100,3 +100,5 @@ header:
   show_nav: false
   sticky: false
   search: false
+
+navigation: false
