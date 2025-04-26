@@ -30,3 +30,13 @@ header:
     <i class="fas fa-envelope fa-2x"></i>
   </a>
 </p>
+
+<br>
+
+<p align="center">
+  <img src="/assets/images/your-photo.jpg" alt="Chris Davidson" width="250">
+</p>
+
+# Chris Davidson
+
+Helping New Zealand’s for-purpose sector thrive through strategic financial leadership, governance support, and program development.
