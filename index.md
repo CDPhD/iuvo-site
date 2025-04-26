@@ -14,8 +14,8 @@ header:
   search: false
 ---
 
-<p>
-  <img src="/assets/images/chris-profile.jpg" alt="Chris Davidson" width="250">
+<p align="center">
+  <img src="/assets/images/20250425logo.png" alt="Iuvo.Solutions Logo" width="300">
 </p>
 
 # Website under development
@@ -33,8 +33,8 @@ header:
 
 <br>
 
-<p align="center">
-  <img src="/assets/images/your-photo.jpg" alt="Chris Davidson" width="250">
+<p>
+  <img src="/assets/images/chris-profile.jpg" alt="Chris Davidson" width="250">
 </p>
 
 # Chris Davidson
