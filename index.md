@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Iuvo.Solutions"
+title: ""
 permalink: /
 classes: wide
 header:
