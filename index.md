@@ -18,16 +18,16 @@ header:
   <img src="/assets/images/20250425logo.png" alt="Iuvo.Solutions Logo" width="300">
 </p>
 
-<div class="mission-photo-container" style="display: flex; flex-wrap: wrap; gap: 40px; align-items: center;">
+<div class="mission-photo-container" style="display: flex; flex-wrap: wrap; gap: 40px; align-items: center; margin-top: 40px;">
 
   <div style="flex: 2; min-width: 300px;">
     <p style="margin-bottom: 20px;">
-      <em>Iuvo comes from Latin, meaning "to assist, support, and befriend" — a reflection of my mission: Empowering for purpose organisations to thrive through expert financial leadership, strategic advice, and governance support</em>
+      <em>Iuvo comes from Latin, meaning "to assist, support, and befriend" — a reflection of my mission: Empowering for-purpose organisations to thrive through expert financial leadership, strategic advice, and governance support.</em>
     </p>
   </div>
 
   <div style="flex: 1; min-width: 250px; text-align: center;">
-    <img src="/assets/images/chris-profile.jpg" alt="Chris Davidson" width="250">
+    <img src="/assets/images/photocolour.jpg" alt="Chris Davidson" width="250">
   </div>
 
 </div>
@@ -35,7 +35,7 @@ header:
 <br>
 
 <p style="margin-bottom: 30px;">
-  As a Chartered Accountant specialising in the for purpose (not-for-profit) sector, I combine commercial expertise with a deep understanding of community development. Alongside my finance qualifications, I hold a Master’s Degree in Sociology — a rare mix that strengthens both strategic thinking and practical delivery:
+  As a Chartered Accountant specialising in the for-purpose (not-for-profit) sector, I combine commercial expertise with a deep understanding of community development. Alongside my finance qualifications, I hold a Master’s Degree in Sociology — a rare mix that strengthens both strategic thinking and practical delivery:
 </p>
 
 <h3>Financial Leadership & Support</h3>
@@ -70,7 +70,7 @@ header:
 <p>With over 20 years of leadership experience in Aotearoa’s social enterprise and community sectors, I offer a unique combination of financial expertise and sector insight:</p>
 
 <p>✔️ Eight years in community sector CEO roles</p>
-<p>✔️ Chartered Accountant with commercial and for purpose experience</p>
+<p>✔️ Chartered Accountant with commercial and for-purpose experience</p>
 <p>✔️ Extensive experience leading teams, stakeholder engagement, project management, funding, operational and governance policy development, and programme design</p>
 
 <h3>Qualifications & Certifications</h3>
