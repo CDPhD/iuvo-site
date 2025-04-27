@@ -22,7 +22,7 @@ header:
 
   <div style="flex: 2; min-width: 300px;">
     <p style="margin-bottom: 20px;">
-      <em>Iuvo comes from Latin, meaning "to assist, support, and befriend" — a reflection of my mission: Empowering for purpose organisations to thrive through expert financial leadership, strategic advice, and governance support </em>
+      <em>Iuvo comes from Latin, meaning "to assist, support, and befriend" — a reflection of my mission: Empowering for purpose organisations to thrive through expert financial leadership, strategic advice, and governance support</em>
     </p>
   </div>
 
@@ -63,7 +63,7 @@ header:
   <li>Real-world experience reporting to and serving on Boards</li>
 </ul>
 
-<p style="margin-top: 30px;"><strong>Whether you need interim financial leadership, project support, or governance advice, I bring a practical, solutions-focused approach. I work flexibly — on a project, interim, or ongoing basis — so you can focus on what matters most: creating lasting impact </strong></p>
+<p style="margin-top: 30px;"><strong>Whether you need interim financial leadership, project support, or governance advice, I bring a practical, solutions-focused approach. I work flexibly — on a project, interim, or ongoing basis — so you can focus on what matters most: creating lasting impact.</strong></p>
 
 <h3>About Chris Davidson</h3>
 
@@ -82,6 +82,10 @@ header:
   <li>Advanced Certificate in Xero</li>
   <li>Certificate in Xero Payroll</li>
 </ul>
+
+<p style="margin-bottom: 50px;">
+  Whether through my direct support or by drawing on my network, iuvo.solutions is here to help your organisation succeed — let’s start the conversation.
+</p>
 
 <!-- New footer starts here -->
 <div style="border-top: 1px solid #ddd; margin-top: 50px; padding-top: 20px; display: flex; justify-content: space-between; align-items: center;">
