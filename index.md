@@ -84,7 +84,7 @@ header:
 </ul>
 
 <p style="margin-bottom: 50px;">
-  Whether through my direct support or by drawing on my network, iuvo.solutions is here to help your organisation succeed — let’s start the conversation.
+  <em>Whether through my direct support or by drawing on my network, iuvo.solutions is here to help your organisation succeed — let’s have a chat!</em>
 </p>
 
 <!-- New footer starts here -->
