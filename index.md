@@ -94,12 +94,12 @@ header:
   </div>
 
   <div style="flex: 1; text-align: right; white-space: nowrap;">
-    <div style="display: inline-block; text-align: center; margin-right: 20px;">
+    <div style="display: inline-flex; flex-direction: column; align-items: center; margin-right: 20px;">
       <a href="https://www.xero.com" target="_blank" rel="noopener noreferrer">
-        <img src="/assets/images/Xero-logo.png" alt="Xero" style="height: 110px;">
+        <img src="/assets/images/Xero-logo.png" alt="Xero" style="height: 110px; display: block;">
       </a>
-      <div style="font-size: 12px; color: #666; margin-top: 5px;">
-        Xero Certified Professional (Level 2)
+      <div style="font-size: 12px; color: #666; margin-top: 2px; line-height: 1.2;">
+        Xero Certified Professional
       </div>
     </div>
 
