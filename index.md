@@ -92,13 +92,21 @@ header:
   <div style="flex: 1;">
     <img src="/assets/images/CAANZ_Logo_Vertical_Full_72dpi_CMYK.jpg" alt="CAANZ Logo" style="height: 150px;">
   </div>
+
   <div style="flex: 1; text-align: right; white-space: nowrap;">
-    <a href="https://www.xero.com" target="_blank" rel="noopener noreferrer" style="margin-right: 20px;">
-      <img src="/assets/images/Xero-logo.png" alt="Xero" style="height: 110px; vertical-align: middle;">
-    </a>
+    <div style="display: inline-block; text-align: center; margin-right: 20px;">
+      <a href="https://www.xero.com" target="_blank" rel="noopener noreferrer">
+        <img src="/assets/images/Xero-logo.png" alt="Xero" style="height: 110px;">
+      </a>
+      <div style="font-size: 12px; color: #666; margin-top: 5px;">
+        Xero Certified Professional (Level 2)
+      </div>
+    </div>
+
     <a href="https://www.linkedin.com/in/chris-davidson-aa92a58/" target="_blank" style="margin-right: 20px;">
       <i class="fab fa-linkedin fa-2x"></i>
     </a>
+
     <a href="mailto:chris.davidson@iuvo.solutions" style="margin-left: 20px;">
       <i class="fas fa-envelope fa-2x"></i>
     </a>
