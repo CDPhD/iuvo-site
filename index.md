@@ -79,8 +79,7 @@ header:
   <li>Diploma in Finance</li>
   <li>Master's Degree in Sociology</li>
   <li>Certificate of Public Practice (CA ANZ)</li>
-  <li>Advanced Certificate in Xero</li>
-  <li>Certificate in Xero Payroll</li>
+  <li>Certified Xero Professional</li>  
 </ul>
 
 <p style="margin-bottom: 50px;">
