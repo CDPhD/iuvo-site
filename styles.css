@@ -137,6 +137,20 @@ nav a[aria-current="page"] {
   font-size: 0.92rem;
 }
 
+.button-outline {
+  margin-top: 0.8rem;
+  border-color: var(--navy);
+  background: transparent;
+  color: var(--navy);
+}
+
+.button-outline:hover,
+.button-outline:focus-visible {
+  background: var(--mist);
+  border-color: var(--teal-dark);
+  color: var(--navy-deep);
+}
+
 .hero {
   background: var(--white);
 }
